@@ -1,11 +1,16 @@
- J'écris 
+ JLes commandes de Push : 
 
- N'importe quoi 
+- git clone <url-github>
 
- pour voir 
+- git add <nomdufichier>
+- git commit -m <commentaire du commit>
+- git push -u origin <nomdelabranchàpush>
 
- si 
-  je peu 
-  faire le merge 
+-- D'autres commandes sont intéressantes.
 
-  tranquilement
+-- Plus de précision sur ce lien après la création du repo : https://github.com/pierre-antoine-dumond/git-begins
+
+- git pull 
+
+- git branch [nom-de-branche] -- Crée une nouvelle branche
+- git checkout [nom-de-branche] -- Bascule sur la branche spécifiée et met à jour le répertoire de travail
