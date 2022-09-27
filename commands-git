@@ -15,3 +15,6 @@ Les commandes de Push :
 - git branch [nom-de-branche] -- Crée une nouvelle branche
 - git checkout [nom-de-branche] -- Bascule sur la branche spécifiée et met à jour le répertoire de travail
 
+D'autres liens utiles : 
+
+- https://training.github.com/downloads/fr/github-git-cheat-sheet.pdf
